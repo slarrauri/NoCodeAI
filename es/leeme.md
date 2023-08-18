@@ -1,7 +1,7 @@
 # IA sin Codigo
 La IA sin codigo es el futuro de la creación de sistemas avanzados de inteligencia artificial sin escribir ni una sola línea de código. Con nuestro enfoque revolucionario, puedes lograr capacidades de IA de última generación haciendo absolutamente nada.
 
-## Primeros Pasos
+## Primeros Pasos 
 Inicia tu trayecto en IA sin escribir ningún código en absoluto. Simplemente imagina la IA de tus sueños y nuestra avanzada plataforma de IA sin código la hará cobrar vida.
 
 Este es solo un modelo de IA de muestra, pero las posibilidades son ilimitadas. Puedes visualizarla realizando cualquier tarea que desees. Añadir nuevas capacidades es tan simple como pensar en ellas:
